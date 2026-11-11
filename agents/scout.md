@@ -1,6 +1,6 @@
 ---
 name: scout
-description: Cheap, fast helper for simple lookups that need no conversation history - find where something is in the code, read and summarize files or logs, list or count things, check a version or a setting, answer "does X exist". Not for writing code, design decisions or anything that needs judgement.
+description: Cheap, fast helper for simple lookups that need no conversation history - find where something is in the code, read and summarize files or logs, list or count things, check a version or a setting, answer "does X exist". Send several small lookups in one call rather than one call each. Not for writing code, design decisions or anything that needs judgement.
 model: haiku
 effort: low
 tools: Read, Grep, Glob, Bash

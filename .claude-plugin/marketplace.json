@@ -5,7 +5,7 @@
     {
       "name": "model-router",
       "source": "./",
-      "description": "Sends each part of a task to the cheapest Claude model that handles it well."
+      "description": "Keeps sessions on Sonnet and brings in Opus or Haiku only where testing showed it pays off."
     }
   ]
 }
