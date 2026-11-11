@@ -1,0 +1,11 @@
+{
+  "name": "model-router",
+  "owner": { "name": "Muneeb Ahmad Khan" },
+  "plugins": [
+    {
+      "name": "model-router",
+      "source": "./",
+      "description": "Sends each part of a task to the cheapest Claude model that handles it well."
+    }
+  ]
+}

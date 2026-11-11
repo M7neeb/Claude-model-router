@@ -1,0 +1,9 @@
+{
+  "name": "model-router",
+  "version": "1.0.0",
+  "description": "Sends each part of a task to the cheapest Claude model that handles it well: Haiku for lookups, Sonnet for research and everyday work, Opus for the hard parts.",
+  "author": { "name": "Muneeb Ahmad Khan", "url": "https://github.com/M7neeb" },
+  "repository": "https://github.com/M7neeb/Claude-model-router",
+  "license": "MIT",
+  "keywords": ["model", "routing", "usage", "haiku", "sonnet", "opus"]
+}
